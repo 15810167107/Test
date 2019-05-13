@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("hello,git");
         System.out.println("这世界，我来了");
         System.out.println("这个时候我不知道代码进行了修改");
+        int b=20;
         int i=100;
     }
 }
